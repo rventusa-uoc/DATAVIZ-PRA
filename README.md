@@ -23,3 +23,5 @@ El resultado del script que selecciona los países con más incremento en el PIB
 El dataset procesado que se usa en la visualización recoge los datos de estos 10 países.
 
 El origen del dataset original es el siguiente: https://www.kaggle.com/datasets/omkargowda/suicide-rates-overview-1985-to-2021
+
+El enlace a la visualización es el siguiente: https://app.powerbi.com/groups/me/reports/3f6dd6bc-be34-4c16-8aa6-283e7e8e4283/413b1b2dab30a11ceddf?bookmarkGuid=261b4d29-edb3-43dc-8e50-df7af4eef205&bookmarkUsage=1&ctid=aec762e4-3d54-495e-a8fe-4287dce6fe69&portalSessionId=130b4cce-2c29-4502-b94c-51ad5c482cbf&fromEntryPoint=export
