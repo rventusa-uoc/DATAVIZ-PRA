@@ -20,7 +20,7 @@ El resultado del script que selecciona los países con más incremento en el PIB
 - Denmark de 1994 a 2020 (26 años):
   - Aumento: $68,196.00
  
-El dataset procesado que se usa en la visualización recoge los datos de estos 10 países.
+El dataset procesado que se usa en la visualización recoge los datos de estos 10 países y reduce el total de columnas a las siguientes: country, year, sex, age, suicides_no, population, suicides/100k pop, gdp_per_capita ($), generation, cambio_pib_per_capita.
 
 El origen del dataset original es el siguiente: https://www.kaggle.com/datasets/omkargowda/suicide-rates-overview-1985-to-2021
 
